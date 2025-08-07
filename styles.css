@@ -236,6 +236,7 @@ section h2 {
 }
 
 
+
 /* === CERTIFICATES === */
 .certificates-grid {
   display: grid;
@@ -354,4 +355,5 @@ footer {
   text-shadow: 0 0 12px var(--accent-pink);
   transform: scale(1.15);
 }
+
 
